@@ -1,2 +1,5 @@
-# Quest-o_11_Entrega_pr-tica_no_GitHub
-Questao 11 da A1 da materia de modelos, metodos e tecnicas da engenharia de software
+# Módulo de Importação de XML de NF-e
+
+Projeto destinado ao mapeamento e estruturação do processo (EAP) de importação e validação de Notas Fiscais Eletrônicas (NF-e) a partir de arquivos XML.
+
+**Autor:** Renato Gonçalves Machado
